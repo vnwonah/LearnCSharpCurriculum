@@ -1,6 +1,6 @@
 # Learn C# Curriculum
 
-C# (Pronounced C# is a programming language developed in 2001 by Microsoft). This curriculum lists out core concepts and the order you should learn them in to take you from  complete beginner, to an intermediate level C# Developer in no time.
+C# (Pronounced C-Sharp is a programming language developed in 2001 by Microsoft). This curriculum lists out core concepts and the order you should learn them in to take you from  complete beginner, to an intermediate level C# Developer in no time.
 
 ## Beginner
 
